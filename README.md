@@ -10,9 +10,9 @@ Use this gif as an example of how the app should work.
 
 ## Setup
 
-- Fork and clone this repository
 - Run `json-server --watch db.json` to get the backend started
 - Open the `index.html` file on your browser
+- Write your code in the `index.js` file
 
 ## Endpoints
 
@@ -36,8 +36,8 @@ As a user, I can:
 
 You'll need a these endpoints for the advanced deliverables:
 
-- DELETE `/ramens/:id`
 - POST `/ramens`
+- DELETE `/ramens/:id`
 
 These deliverables are not required to pass the code challenge, but if you have the extra time, or even after the code challenge, they are a great way to stretch your skills.
 
